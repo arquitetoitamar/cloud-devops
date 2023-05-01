@@ -1,4 +1,4 @@
-# cloud-devops
+# Cloud Devops
 Eventos de TI relacionados a cloud e devops
 
 ## Próximos 
